@@ -12,7 +12,7 @@ Es un proyecto de ejemplo que muestra:
 ## Instalación y Configuración
 1. Clona el repositorio:
 ```
-git clone https://github.com/tu-usuario/TimeBox-JetpackCompose-GraphNav-TypeSafeNav-ComposeDestinationNav.git
+git clone [https://github.com/tu-usuario/TimeBox-JetpackCompose-GraphNav-TypeSafeNav-ComposeDestinationNav.git](https://github.com/AlejandroDCK/TimeBox-JetpackCompose-GraphNav-TypeSafeNav-ComposeDestinationNav.git)
 ```
 2. Abre el proyecto en Android Studio.
 3. Sincroniza las dependencias: Asegúrate de sincronizar las dependencias en build.gradle.
