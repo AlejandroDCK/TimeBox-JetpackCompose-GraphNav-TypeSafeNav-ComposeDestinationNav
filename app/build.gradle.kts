@@ -1,6 +1,7 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
+    alias(libs.plugins.plguinKotlinSerialization)
     alias(libs.plugins.ksp)
 }
 
@@ -69,6 +70,7 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
 
     implementation(libs.navigation)
+    implementation(libs.kotlinxSerialization.json)
     implementation(libs.composeDestinationCore)
     ksp(libs.ksp)
 }
