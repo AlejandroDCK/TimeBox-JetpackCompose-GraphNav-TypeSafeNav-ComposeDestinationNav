@@ -1,5 +1,7 @@
 ﻿# TimeBox-JetpackCompose-GraphNav-TypeSafeNav-ComposeDestinationNav
 
+Este proyecto explora las diferentes formas de implementar la navegación en aplicaciones Android utilizando Jetpack Compose y Kotlin.
+
 ## Descripción
 Es un proyecto de ejemplo que muestra:
 
