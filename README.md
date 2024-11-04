@@ -15,5 +15,6 @@ Es un proyecto de ejemplo que muestra:
 git clone https://github.com/AlejandroDCK/TimeBox-JetpackCompose-GraphNav-TypeSafeNav-ComposeDestinationNav.git
 ```
 2. Abre el proyecto en Android Studio.
-3. Sincroniza las dependencias: Asegúrate de sincronizar las dependencias en build.gradle.
-4. Ejecuta el proyecto: Selecciona un emulador o dispositivo y haz clic en Run.
+3. Elije la rama del proyecto en función de que navegación quieras probar
+4. Sincroniza las dependencias: Asegúrate de sincronizar las dependencias en build.gradle.
+5. Ejecuta el proyecto: Selecciona un emulador o dispositivo y haz clic en Run.
