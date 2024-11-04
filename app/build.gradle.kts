@@ -1,6 +1,7 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
+    alias(libs.plugins.ksp)
 }
 
 android {
@@ -68,4 +69,6 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
 
     implementation(libs.navigation)
+    implementation(libs.composeDestinationCore)
+    ksp(libs.ksp)
 }
